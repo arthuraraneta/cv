@@ -53,9 +53,3 @@ a {
     border-width: 5px;
     width: 3%;
   }
-
-  /*****************Class Selectors***************/
-
-  .profile {
-    background-color: grey;
-  }
