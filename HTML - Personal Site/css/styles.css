@@ -1,0 +1,60 @@
+img {
+  border-radius: 50%
+}
+
+  body {
+    background-color: #404040;
+
+    }
+
+
+h1 {
+  color: #00FFFF;
+  font-family: "calibri";
+}
+h3 {
+  color: #00FFFF;
+  font-family: "calibri";
+}
+label {
+  color: #00FFFF;
+  font-family: "calibri";
+}
+
+p {
+  color: #C8C8C8;
+  font-family: "calibri";
+  }
+  li {
+    color: #C8C8C8;
+    font-family: "calibri";
+    }
+ul {
+  color: #C8C8C8;
+  font-family: "calibri";
+}
+th {
+  color: #00FFFF;
+  font-family: "calibri";
+}
+td {
+  color:#C8C8C8;
+  font-family: "calibri";
+}
+a {
+  color: #b3f0ff;
+}
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #808080;
+    border-width: 5px;
+    width: 3%;
+  }
+
+  /*****************Class Selectors***************/
+
+  .profile {
+    background-color: grey;
+  }
